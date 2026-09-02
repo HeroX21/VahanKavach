@@ -1,0 +1,6 @@
+{
+  "name": "VahanKavach",
+  "description": "Modern Indian vehicle insurance and automotive protection platform. Simple, transparent, and technology-enabled vehicle protection for every journey.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
